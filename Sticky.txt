@@ -1,0 +1,46 @@
+Make Demo Bot Version
+
+only until Slack
+
+
+
+
+
+Make Actual prod version two .. one till slack and one just to upload to sharepoint
+
+
+
+<extract>
+	<column exact="1" name="Column1" attr="text">
+		<webctrl tag="div" class="ms-List-cell"/>
+		<webctrl tag="div" class="DropTargetRelay root_d2ba5f2c" idx="1"/>
+		<webctrl tag="div" class="DragSourceRelay root_d2ba5f2c" idx="1"/>
+		<webctrl tag="div" class="ms-FocusZone css-69 ms-DetailsRow is-contentUnselectable root-145" idx="1"/>
+		<webctrl tag="div" class="ms-DetailsRow-fields fields-153" idx="1"/>
+		<webctrl tag="div" class="ms-DetailsRow-cell cell-148 cellUnpadded-146" idx="1"/>
+		<webctrl tag="div" class="fieldRendererRendererWithCommands_c5740d2d" idx="1"/>
+		<webctrl tag="div" class="nameFieldWidthOnHover_c5740d2d" idx="1"/>
+		<webctrl tag="span" class="signalField_6f85ed4c wide_6f85ed4c" idx="1"/>
+		<webctrl tag="span" class="signalFieldValue_6f85ed4c" idx="1"/>
+		<webctrl tag="button" class="ms-Link nameField_5ab8d8c7 clickable_5ab8d8c7 root-159" idx="1"/>
+	</column>
+</extract>
+
+CREATE VERTICALAPPS LOGO ANIMATION
+
+TO DO TODAY:
+
+
+add jira tickets for editing, solving issues for ocfo install 
+
+
+EDIT I 485 
+
+
+RECORD AND EDIT ELLABOT DEMO
+
+RECORD AND EDIT PRAVIN DEMO
+
+
+EMAIL TEMPLATES TO PAUL -- DONE
+EDIT BLUR DEMO --- DONE
